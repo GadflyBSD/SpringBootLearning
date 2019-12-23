@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="generator" />
+        <module name="kafka" />
         <module name="restful" />
         <module name="scheduled" />
         <module name="task-executor" />
@@ -14,6 +15,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="generator" target="1.8" />
+      <module name="kafka" target="1.8" />
       <module name="restful" target="1.8" />
       <module name="scheduled" target="1.8" />
       <module name="task-executor" target="1.8" />
@@ -22,6 +24,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="generator" options="-parameters" />
+      <module name="kafka" options="-parameters" />
       <module name="restful" options="-parameters" />
       <module name="scheduled" options="-parameters" />
       <module name="task-executor" options="-parameters" />

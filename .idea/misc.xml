@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/generator/pom.xml" />
         <option value="$PROJECT_DIR$/scheduled/pom.xml" />
         <option value="$PROJECT_DIR$/task-executor/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka/pom.xml" />
       </list>
     </option>
   </component>

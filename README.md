@@ -87,3 +87,5 @@ SpringBoot 学习课程
 ### 3. Learn-03: [Scheduled Task Demo project for Spring Boot（创建定时任务）](./scheduled)
 
 ### 4. Learn-04: [Task Executor Demo project for Spring Boot（并发和多线程）](./task-executor)
+
+### 5. Learn-05: [Apache Kafka Demo project for Spring Boot（Kafka生产与消费）](./kafka)
