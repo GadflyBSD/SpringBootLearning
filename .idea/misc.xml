@@ -12,6 +12,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/restful/pom.xml" />
+        <option value="$PROJECT_DIR$/generator/pom.xml" />
       </list>
     </option>
   </component>
