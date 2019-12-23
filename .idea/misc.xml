@@ -13,6 +13,8 @@
       <list>
         <option value="$PROJECT_DIR$/restful/pom.xml" />
         <option value="$PROJECT_DIR$/generator/pom.xml" />
+        <option value="$PROJECT_DIR$/scheduled/pom.xml" />
+        <option value="$PROJECT_DIR$/task-executor/pom.xml" />
       </list>
     </option>
   </component>

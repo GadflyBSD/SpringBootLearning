@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/generator/generator.iml" filepath="$PROJECT_DIR$/generator/generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/restful/restful.iml" filepath="$PROJECT_DIR$/restful/restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scheduled/scheduled.iml" filepath="$PROJECT_DIR$/scheduled/scheduled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task-executor/task-executor.iml" filepath="$PROJECT_DIR$/task-executor/task-executor.iml" />
     </modules>
   </component>
 </project>

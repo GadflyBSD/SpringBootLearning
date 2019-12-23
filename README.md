@@ -80,8 +80,10 @@ SpringBoot 学习课程
   * API的目的通常都是由于多终端的原因，这些终端会共用很多底层业务逻辑，因此我们会抽象出这样一层来同时服务于多个移动端或者Web前端。
 
 ## 一、培训课程内容
-### 1. Learn-01: [RestFUL API Demo project for Spring Boot（RestFUL API的初步搭建）](./restful/Readme.md)
+### 1. Learn-01: [RestFUL API Demo project for Spring Boot（RestFUL API的初步搭建）](./restful)
 
-### 2. Learn-02: [MyBatis plus Auto GMyBatis plus Auto Generator Demo project for Spring Boot Demo project for Spring Boot（使用代码生成器自动生成代码）](./generator/Readme.md)
+### 2. Learn-02: [MyBatis plus Auto Generator Demo project for Spring Boot Demo project for Spring Boot（使用代码生成器自动生成代码）](./generator)
 
-### 3. Learn-03:
+### 3. Learn-03: [Scheduled Task Demo project for Spring Boot（创建定时任务）](./scheduled)
+
+### 4. Learn-04: [Task Executor Demo project for Spring Boot（并发和多线程）](./task-executor)
