@@ -89,3 +89,5 @@ SpringBoot 学习课程
 ### 4. Learn-04: [Task Executor Demo project for Spring Boot（并发和多线程）](./task-executor)
 
 ### 5. Learn-05: [Apache Kafka Demo project for Spring Boot（Kafka生产与消费）](./kafka)
+
+### 6. Learn-06: [RestTemplate Demo project for Spring Boot（发送HTTP请求）](./rest-template)

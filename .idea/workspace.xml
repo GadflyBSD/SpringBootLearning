@@ -2,56 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce57e04-d6f7-4801-960a-3feb5e67ca5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_csv_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_12_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spotbugs_spotbugs_annotations_3_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_scala_logging_scala_logging_2_12_3_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_connect_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_connect_json_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_12_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_12_test_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_test_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_streams_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_streams_test_utils_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rocksdb_rocksdbjni_5_18_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_12_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_12_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_test_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/src/main/java/com/hanwang/kafka/component/KafkaComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scheduled/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-executor/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-executor/src/main/java/com/hanwang/taskexecutor/configure/AsyncConfigure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-executor/src/main/java/com/hanwang/taskexecutor/service/AsyncService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-template/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/BaiduMapRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/Notice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/configure/RestTemplateConfigure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheduled/src/main/java/com/hanwang/scheduled/ScheduledApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/scheduled/src/main/java/com/hanwang/scheduled/ScheduledApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-executor/src/main/java/com/hanwang/taskexecutor/TaskExecutorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-executor/src/main/java/com/hanwang/taskexecutor/TaskExecutorApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/restful/target/" />
@@ -59,6 +26,8 @@
     <ignored path="$PROJECT_DIR$/scheduled/target/" />
     <ignored path="$PROJECT_DIR$/task-executor/target/" />
     <ignored path="$PROJECT_DIR$/kafka/target/" />
+    <ignored path="$PROJECT_DIR$/http-request/target/" />
+    <ignored path="$PROJECT_DIR$/rest-template/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,21 +49,67 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kafka/src/main/java/com/hanwang/kafka/KafkaApplication.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-template/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+            <state relative-caret-position="1326">
+              <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/Notice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/BaiduMapRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka/src/main/java/com/hanwang/kafka/component/KafkaComponent.java">
+        <entry file="file://$PROJECT_DIR$/rest-template/src/test/java/com/hanwang/resttemplate/RestTemplateApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="104">
+              <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/RestTemplateApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/configure/RestTemplateConfigure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="988">
+              <caret line="55" column="58" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,7 +149,6 @@
         <option value="$PROJECT_DIR$/generator/src/main/java/com/hanwang/generator/configure/Swagger2Configure.java" />
         <option value="$PROJECT_DIR$/generator/src/main/java/com/hanwang/generator/GeneratorApplication.java" />
         <option value="$PROJECT_DIR$/generator/Readme.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/scheduled/src/main/java/com/hanwang/scheduled/ScheduledApplication.java" />
         <option value="$PROJECT_DIR$/scheduled/Readme.md" />
         <option value="$PROJECT_DIR$/task-executor/src/main/java/com/hanwang/taskexecutor/configure/AsyncConfigure.java" />
@@ -145,6 +159,19 @@
         <option value="$PROJECT_DIR$/kafka/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/kafka/src/main/java/com/hanwang/kafka/component/kafkaComponent.java" />
         <option value="$PROJECT_DIR$/kafka/src/main/java/com/hanwang/kafka/KafkaApplication.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/baidu_map_request/pojo/Location.java" />
+        <option value="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/baidu_map_request/pojo/AddressComponent.java" />
+        <option value="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/baidu_map_request/pojo/Result.java" />
+        <option value="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/baidu_map_request/pojo/Notice.java" />
+        <option value="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/Notice.java" />
+        <option value="$PROJECT_DIR$/rest-template/pom.xml" />
+        <option value="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/rest-template/src/test/java/com/hanwang/resttemplate/RestTemplateApplicationTests.java" />
+        <option value="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/configure/RestTemplateConfigure.java" />
+        <option value="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/RestTemplateApplication.java" />
+        <option value="$PROJECT_DIR$/rest-template/Readme.md" />
+        <option value="$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/BaiduMapRequest.java" />
       </list>
     </option>
   </component>
@@ -156,8 +183,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -167,55 +194,124 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-template" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-template" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-template" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-template" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-template" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="resttemplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resttemplate" type="462c0819:PsiDirectoryNode" />
               <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resttemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="configure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resttemplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restful" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restful" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restful" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restful" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restful" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restful" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restful" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restful" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="NBKnowledgePane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,7 +321,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577072027462" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577091435321" />
     <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -253,7 +349,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.RestfulApplication">
+  <component name="RunManager" selected="Spring Boot.RestTemplateApplication">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="SpringBootLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,6 +369,38 @@
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
       <method v="2" />
+    </configuration>
+    <configuration name="RestTemplateApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hanwang.resttemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hanwang.resttemplate" />
+      <option name="MAIN_CLASS_NAME" value="com.hanwang.resttemplate.RestTemplateApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestTemplateApplicationTests.getBaiduMapForObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hanwang.resttemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hanwang.resttemplate" />
+      <option name="MAIN_CLASS_NAME" value="com.hanwang.resttemplate.RestTemplateApplicationTests" />
+      <option name="METHOD_NAME" value="getBaiduMapForObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="SpringBootLearning" />
@@ -389,9 +517,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HttpRequestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="http-request" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hanwang.httprequest.HttpRequestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="kafka" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hanwang.kafka.KafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestTemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rest-template" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hanwang.resttemplate.RestTemplateApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -510,6 +652,12 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RestTemplateApplicationTests.getBaiduMapForObject" />
+        <item itemvalue="JUnit.RestTemplateApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -521,35 +669,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577066194688</updated>
-      <workItem from="1577066197511" duration="5183000" />
+      <workItem from="1577066197511" duration="19516000" />
+      <workItem from="1577098928498" duration="7000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="RestTemplateApplicationTests_contextLoads - 2019.12.23 at 12h 56m 54s.xml">
+      <configuration name="RestTemplateApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RestTemplateApplicationTests_getBaiduMapForObject - 2019.12.23 at 13h 02m 21s.xml">
+      <configuration name="RestTemplateApplicationTests.getBaiduMapForObject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RestTemplateApplicationTests_getBaiduMapForObject - 2019.12.23 at 13h 22m 20s.xml">
+      <configuration name="RestTemplateApplicationTests.getBaiduMapForObject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RestTemplateApplicationTests_getBaiduMapForObject - 2019.12.23 at 13h 24m 49s.xml">
+      <configuration name="RestTemplateApplicationTests.getBaiduMapForObject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RestTemplateApplicationTests_getBaiduMapForObject - 2019.12.23 at 13h 29m 41s.xml">
+      <configuration name="RestTemplateApplicationTests.getBaiduMapForObject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RestTemplateApplicationTests_getBaiduMapForObject - 2019.12.23 at 13h 32m 05s.xml">
+      <configuration name="RestTemplateApplicationTests.getBaiduMapForObject" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5183000" />
+    <option name="totallyTimeSpent" value="19523000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info id="Web" side_tool="true" />
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.185836" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.18803419" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info id="Database" order="6" weight="0.32960597" />
-      <window_info anchor="bottom" id="Log Viewer" />
-      <window_info anchor="bottom" id="Messages" weight="0.32997987" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32997987" />
-      <window_info anchor="bottom" id="Docker" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="MyBatis Log" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32997987" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32997987" />
@@ -557,7 +715,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Log Viewer" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32997987" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32997987" />
+      <window_info anchor="bottom" id="Docker" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32997987" />
+      <window_info anchor="bottom" id="MyBatis Log" order="16" />
       <window_info anchor="right" id="Word Book" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="JSON Viewer" order="2" />
@@ -569,6 +736,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -618,13 +786,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/restful/src/main/java/com/hanwang/restful/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -682,25 +843,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generator/src/main/java/com/hanwang/generator/GeneratorApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generator/src/main/java/com/hanwang/generator/configure/Swagger2Configure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generator/src/main/java/com/hanwang/generator/configure/MybatisPlusConfigure.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -732,28 +874,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/restful/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-646">
           <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="57" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generator/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="73" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scheduled/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="13" column="19" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/generator/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -776,24 +910,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task-executor/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="59" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="428">
-            <caret line="90" column="81" selection-start-line="90" selection-start-column="81" selection-end-line="90" selection-end-column="81" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scheduled/src/main/java/com/hanwang/scheduled/ScheduledApplication.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -865,12 +987,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kafka/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
           <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/kafka/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -893,6 +1015,129 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="484">
+            <caret line="92" column="69" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="69" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/baidu_map_request/pojo/Result.java" />
+    <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/baidu_map_request/pojo/Location.java" />
+    <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/baidu_map_request/pojo/AddressComponent.java" />
+    <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/RestTemplateConfig.java" />
+    <entry file="file://$PROJECT_DIR$/generator/src/main/java/com/hanwang/generator/configure/Swagger2Configure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator/src/main/java/com/hanwang/generator/GeneratorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful/src/main/java/com/hanwang/restful/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-template/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="293" column="65" selection-start-line="2" selection-end-line="293" selection-end-column="65" />
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-template/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/Notice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-template/src/test/java/com/hanwang/resttemplate/RestTemplateApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/RestTemplateApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/configure/RestTemplateConfigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="55" column="58" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-template/src/main/java/com/hanwang/resttemplate/component/BaiduMapRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -949,7 +1194,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>kafka</last-edited>
+          <last-edited>rest-template</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
