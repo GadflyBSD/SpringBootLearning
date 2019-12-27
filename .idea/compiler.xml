@@ -12,6 +12,7 @@
         <module name="restful" />
         <module name="scheduled" />
         <module name="task-executor" />
+        <module name="web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,6 +23,7 @@
       <module name="restful" target="1.8" />
       <module name="scheduled" target="1.8" />
       <module name="task-executor" target="1.8" />
+      <module name="web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -33,6 +35,7 @@
       <module name="restful" options="-parameters" />
       <module name="scheduled" options="-parameters" />
       <module name="task-executor" options="-parameters" />
+      <module name="web" options="-parameters" />
     </option>
   </component>
 </project>

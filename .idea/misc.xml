@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/task-executor/pom.xml" />
         <option value="$PROJECT_DIR$/kafka/pom.xml" />
         <option value="$PROJECT_DIR$/rest-template/pom.xml" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
       </list>
     </option>
   </component>

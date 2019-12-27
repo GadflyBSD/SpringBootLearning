@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/restful/restful.iml" filepath="$PROJECT_DIR$/restful/restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduled/scheduled.iml" filepath="$PROJECT_DIR$/scheduled/scheduled.iml" />
       <module fileurl="file://$PROJECT_DIR$/task-executor/task-executor.iml" filepath="$PROJECT_DIR$/task-executor/task-executor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
     </modules>
   </component>
 </project>
