@@ -30,9 +30,9 @@ public class TaskExecutorApplication implements CommandLineRunner {
 			}
 			Thread.sleep(1000);
 			// 阻塞调用
-			asyncService.sayHello("yan").get();
+			asyncService.sayHello("带返回值的异步任务").get();
 			// 限时调用
-			asyncService.sayHello("yan").get(1, TimeUnit.SECONDS);
+			asyncService.sayHello("带返回值的异步任务").get(1, TimeUnit.SECONDS);
 		} catch (InterruptedException | ExecutionException | TimeoutException e) {
 			e.printStackTrace();
 		}
